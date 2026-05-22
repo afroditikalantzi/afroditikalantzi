@@ -14,7 +14,7 @@ I enjoy every stage of development, from concept and prototyping to implementati
 - 🌍 Based in **Greece**
 - 🖥️ Portfolio: [afroditi-kalantzi.netlify.app](https://afroditi-kalantzi.netlify.app)
 - ✉️ Contact: [afrodite.kalantzi@gmail.com](mailto:afrodite.kalantzi@gmail.com)
-- 🚀 Currently working on: [Empneusi.net](https://www.empneusi.net)
+- 🚀 Currently working on: [Netcompany](https://www.empneusi.net)
 - 🧠 Learning: **Django**, **Docker**, **React**
 - 🤝 Open to: **Web apps**, **Interactive systems**, **Creative coding** projects  
 - 💼 Open to new opportunities in **tech and design**, always excited to work on innovative, human-centered projects
